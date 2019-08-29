@@ -67,119 +67,105 @@ const tab = [
   },
   {
     name: "Âne",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/l_ane_2452_6_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjrLJQwki_donkey.jpg",
     category: "La Ferme"
   },
   {
     name: "Poule",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/la_poule_2452_1_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvbOd07la_poule.jpg",
     category: "La Ferme"
   },
   {
     name: "Canard",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/le_canard_2452_2_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCu2053QOa_canard.jpg",
     category: "La Ferme"
   },
   {
     name: "Lapin",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/le_lapin_2452_3_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCu4AJEoUa_rabbit.jpg",
     category: "La Ferme"
   },
   {
     name: "Mouton",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/le_mouton_2452_5_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCu5Kq4lia_sheep.jpg",
     category: "La Ferme"
   },
   {
     name: "Cheval",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/2/5/4/le_cheval_2452_7_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjms0wqRi_cheval.jpg",
+    category: "La Ferme"
+  },
+  {
+    name: "Coq",
+    photo:
+      "https://www.cjoint.com/doc/19_08/IHDpkYERFzi_birds-1882626-1920.jpg",
     category: "La Ferme"
   },
   {
     name: "Chèvre",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/la_chevre_2452_8_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCu6PWxPHa_chevre.jpg",
     category: "La Ferme"
   },
   {
     name: "Vache",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/2/5/4/la_vache_2452_9_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjpVI4tpi_cow.jpg",
     category: "La Ferme"
   },
   {
     name: "Abeille",
-    photo:
-      "https://t1.ea.ltmcdn.com/fr/images/2/5/4/les_abeilles_2452_10_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCu7SNVm1a_bee.jpg",
     category: "La Ferme"
   },
   {
-    name: "Dinde",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/2/5/4/la_dinde_2452_11_600.jpg",
+    name: "Dindon",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvaJQDMVa_dindon.jpg",
     category: "La Ferme"
   },
 
   {
-    name: "Ours brun",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/1/7/4/ours_brun_2471_1_600.jpg",
+    name: "Ours",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvQULCm5a_bear.jpg",
     category: "Les forêts du monde"
   },
   {
     name: "Hibou",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/1/7/4/hibou_2471_2_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvRAMeBCa_owl.jpg",
     category: "Les forêts du monde"
   },
   {
-    name: "Jaguar",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/1/7/4/jaguar_2471_3_600.jpg",
+    name: "Leopard",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvU6K6hwa_jugle-leopard.jpg",
     category: "Les forêts du monde"
   },
   {
-    name: "Raton laveur",
-    photo:
-      "https://t1.ea.ltmcdn.com/fr/images/1/7/4/raton_laveur_2471_4_600.jpg",
+    name: "Raton",
+    photo: "https://www.cjoint.com/doc/19_08/IHCv2byRmva_raton.jpg",
     category: "Les forêts du monde"
   },
   {
     name: "Panda",
-    photo:
-      "https://t2.ea.ltmcdn.com/fr/images/1/7/4/panda_geant_2471_5_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCv1ni7D4a_panda.jpg",
     category: "Les forêts du monde"
   },
   {
     name: "Tigre",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/1/7/4/tigre_2471_6_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCv4UqTm1a_tiger.jpg",
     category: "Les forêts du monde"
   },
   {
     name: "Cerf",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/1/7/4/cerf_2471_7_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCv6kSXKTa_red-deer.jpg",
     category: "Les forêts du monde"
   },
+
   {
-    name: "Lynx",
-    photo: "https://t2.ea.ltmcdn.com/fr/images/1/7/4/lynx_2471_8_600.jpg",
-    category: "Les forêts du monde"
-  },
-  {
-    name: "Pic vert et noir",
-    photo:
-      "https://t2.ea.ltmcdn.com/fr/images/1/7/4/pic_vert_et_noir_2471_9_600.jpg",
-    category: "Les forêts du monde"
-  },
-  {
-    name: "Gorille",
-    photo: "https://t1.ea.ltmcdn.com/fr/images/1/7/4/gorille_2471_10_600.jpg",
-    category: "Les forêts du monde"
-  },
-  {
-    name: "Diable de Tasmanie",
-    photo:
-      "https://t2.ea.ltmcdn.com/fr/images/1/7/4/diable_de_tasmanie_2471_11_600.jpg",
+    name: "Pivert",
+    photo: "https://www.cjoint.com/doc/19_08/IHCv6Vpqgja_pivert.jpg",
     category: "Les forêts du monde"
   },
   {
     name: "Grenouille",
-    photo:
-      "https://t1.ea.ltmcdn.com/fr/images/1/7/4/grenouille_des_bois_2471_12_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvOvJwHBa_frog.jpg",
     category: "Les forêts du monde"
   },
 
@@ -191,13 +177,12 @@ const tab = [
   },
   {
     name: "Chat",
-    photo:
-      "https://sf2.viepratique.fr/wp-content/uploads/sites/8/2017/08/chaton-souriant-750x410.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjsWq6UGi_cat.jpg",
     category: "Compagnie"
   },
   {
     name: "Furet",
-    photo: "https://static.mmzstatic.com/wp-content/uploads/2013/10/furet.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCuW2keo2a_furet.jpg",
     category: "Compagnie"
   },
   {
@@ -214,37 +199,73 @@ const tab = [
   },
   {
     name: "Chinchilla",
-    photo:
-      "https://media.nationalgeographic.org/assets/photos/833/289/3eb0926f-9f4b-430f-a0eb-fb06c119ca29.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCuK7RFkja_chinchilla.jpg",
     category: "Compagnie"
   },
   {
     name: "Poisson",
-    photo:
-      "https://www.generatepattern.com/wp-content/uploads/2019/04/willpower-pic-of-fish-what-does-fish-shaped-stand-for-in-first-aid-free.png"
+    photo: "https://www.cjoint.com/doc/19_08/IHCvKaF6dZa_fish-compagnie.jpg",
+    category: "Compagnie"
   },
   {
     name: "Tortue",
-    photo:
-      "https://beautemondeanimal.files.wordpress.com/2013/12/happy_birthday_liz_part_l_by_silvervulpine-d6voeb2.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvMYppHRa_tortue-compagnie.jpg",
     category: "Compagnie"
   },
   {
     name: "Perroquet",
-    photo:
-      "http://www.waouo.com/wp-content/uploads/2012/03/perroquetmulticolore.jpg",
-    category: "Compagnie"
+    photo: "https://www.cjoint.com/doc/19_08/IHCvLus40ha_jungle-perroquet.jpg",
+    category: "Jungle"
   },
   {
     name: "Lapin",
-    photo:
-      "http://img.over-blog-kiwi.com/0/55/52/96/20150204/ob_5e4918_shutterstock-3306198.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCuYAfTSca_rabbit.jpg",
     category: "Compagnie"
   },
   {
     name: "Canari",
-    photo:
-      "https://t2.ea.ltmcdn.com/fr/images/6/0/3/mon_canari_ne_chante_plus_306_600.jpg",
+    photo: "https://www.cjoint.com/doc/19_08/IHCuJPwqa1a_canarie.jpg",
     category: "Compagnie"
+  },
+  {
+    name: "serpent",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjuH2WM4i_serpent.jpg",
+    category: "Jungle"
+  },
+  {
+    name: "Crocodile",
+    photo: "https://www.cjoint.com/doc/19_08/IHBjxgLkoAi_crocodile.jpg",
+    category: "Jungle"
+  },
+  {
+    name: "Singe",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvMfJSw2a_monkey-jungle.jpg",
+    category: "Jungle"
+  },
+
+  {
+    name: "Elephant",
+    photo: "https://www.cjoint.com/doc/19_08/IHCrx4UNdAi_elephant.jpg",
+    category: "Jungle"
+  },
+  {
+    name: "Lion",
+    photo: "https://www.cjoint.com/doc/19_08/IHCrHebS34i_lion.jpg",
+    category: "Jungle"
+  },
+  {
+    name: "Lapin",
+    photo: "https://www.cjoint.com/doc/19_08/IHCvggABHva_rabbit.jpg",
+    category: "La ferme"
+  },
+  {
+    name: "Herisson",
+    photo: "https://www.cjoint.com/doc/19_08/IHCwgcyiQAa_herisson.jpg",
+    category: "Les forêts du monde"
+  },
+  {
+    name: "Ecureuil",
+    photo: "https://www.cjoint.com/doc/19_08/IHCwixnXFOa_ec.jpg",
+    category: "Les forêts du monde"
   }
 ];
