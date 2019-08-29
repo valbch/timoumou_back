@@ -2,7 +2,9 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost/animals", { useNewUrlParser: true });
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/animals", {
+  useNewUrlParser: true
+});
 // - Le modele
 const Animal = mongoose.model("Animal", {
   name: {
@@ -33,6 +35,7 @@ app.post("/animals/create", async (req, res) => {
       });
       // sauvegarder dans la base de donnée:
       await newAnimal.save();
+      res.json("Animaux sauvegardés !");
     } catch (error) {
       res.status(400).json({ error: error.message });
     }
