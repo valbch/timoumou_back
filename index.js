@@ -35,7 +35,6 @@ app.post("/animals/create", async (req, res) => {
       });
       // sauvegarder dans la base de donnée:
       await newAnimal.save();
-      res.json("Animaux sauvegardés !");
     } catch (error) {
       res.status(400).json({ error: error.message });
     }
